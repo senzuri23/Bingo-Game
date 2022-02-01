@@ -1,0 +1,13 @@
+Rough Logic for Bingo Game
+
+What am I try to do?
+A game where ability to make bingos out of 7 letters scrambled up
+
+First I need a database of all the bingos in the dictionary
+Then I am randomly(mayble sort the bingos according to difficulty?)  getting a bingo from the database, scrambling it up and presenting it to the user
+The user then attempts to find the bingo out of the scrambled letters
+Once they have guessed correctly it is unscrambled
+	You could keep track of how many guesses they have, or not allow the user to submit until the bingo has been guessed correctly
+Once they have guessed correctly, they receive a point and the program moves onto the next bingo
+
+This game is trying to improve the users ability to play Scrabble?
